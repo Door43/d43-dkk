@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dkk:home|Door43 (dkk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dkk|d43-dkk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dkk/archive/master.zip|d43-dkk.zip]]
+
+**Recent Changes**
+{{changes>ns = dkk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dkk|Ethnologue data]]
+
